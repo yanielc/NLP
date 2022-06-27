@@ -1,3 +1,5 @@
 # NLP
 
-* `LM_transformer.ipynb` uses a transformer encoder for language modeling. We build the network, preprocessing functions, and train the model. We finish the notebook with evaluating the model on a test set, and show examples of inference.
+* `translation_using_transformer.ipynb` shows how to use a transformer encoder + decoder architecture for language translation. We build the network, preprocessing functions, and train the model. We finish the notebook with examples of inference.
+* 
+* `LM_transformer.ipynb` shows the use of a transformer encoder for language modeling. 
